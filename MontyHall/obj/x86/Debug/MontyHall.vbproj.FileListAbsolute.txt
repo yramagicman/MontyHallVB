@@ -1,0 +1,14 @@
+F:\things\MontyHall\MontyHall\bin\Debug\MontyHall.exe
+F:\things\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+F:\things\MontyHall\MontyHall\bin\Debug\MontyHall.xml
+F:\things\MontyHall\MontyHall\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.Form1.resources
+F:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.Resources.resources
+F:\things\MontyHall\MontyHall\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\things\MontyHall\MontyHall\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.exe
+F:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.xml
+F:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.pdb
+G:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.exe
+G:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.xml
+G:\things\MontyHall\MontyHall\obj\x86\Debug\MontyHall.pdb
